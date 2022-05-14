@@ -2,6 +2,7 @@ import cv2, time
 from datetime  import datetime
 import argparse
 import os
+
 face_casacde=cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
 
 
